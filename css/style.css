@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+}
+
+aside {
+    background-color: rgb(196, 51, 32);
+    width: 1000vh;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+.container {
+    margin-top: 50px;
+}
+h2 {
+    color: #333;
+    text-align: center;
+}
+.card {
+    margin-bottom: 20px;
+}
+#titulos {
+    text-align: center;
+    margin: 10px;
+    text-shadow: 2px 0px 1px #6b0808;
+}
+
+img {
+    width: 230px;
+    border-radius: 100px;
+    margin-bottom: 60px;
+}
+
+.card-title {
+    color: rgb(196, 51, 32);
+}
+
+h6 {
+    text-align: justify;
+}
+
+h5 {
+    text-align: left;
+}
+
+#progreso {
+    text-align: center;
+}
+
+#imgp {
+    width: 40px;
+}
+
+#pi {
+    text-align: center;
+}
